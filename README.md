@@ -13,6 +13,6 @@ Plan yang tersedia
 
 
 ## Cara pakai
-'''
+```
 python main.py
-'''
+```
